@@ -245,7 +245,7 @@ console.log(ContractMetadata)
                   recognition in the global NFT community.
                 </p>
                 <p>
-                  Specializing in cosmic and abstract themes, Muzammil's work has been featured in major digital
+                  Specializing in cosmic and abstract themes, Muzammil&apos;s work has been featured in major digital
                   galleries and collected by thousands of enthusiasts worldwide. His unique style blends mathematical
                   precision with artistic intuition.
                 </p>
@@ -382,7 +382,7 @@ console.log(ContractMetadata)
         <div className="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Ready to Join the Cosmic Genesis?</h2>
           <p className="text-xl text-purple-100 mb-8 max-w-2xl mx-auto">
-            Don't miss your chance to own a piece of digital history. Claim your NFT now and become part of our
+            Don&apos;t miss your chance to own a piece of digital history. Claim your NFT now and become part of our
             exclusive community.
           </p>
           <Button size="lg" className="bg-white text-purple-600 hover:bg-gray-100 text-lg px-8 py-6">
